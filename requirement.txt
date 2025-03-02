@@ -1,6 +1,0 @@
-streamlit
-joblib
-numpy
-pandas
-matplotlib
-scikit-learn  # If you’re using it
